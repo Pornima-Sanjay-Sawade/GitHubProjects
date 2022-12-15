@@ -4,3 +4,5 @@ Imogi
 Colors
 Type Option
 Vibrant
+Dark Mode
+Video Call
